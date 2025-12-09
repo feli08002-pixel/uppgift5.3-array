@@ -1,5 +1,3 @@
-﻿using System;
-
 using System;
 
 namespace Uppgift5_3array
